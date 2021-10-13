@@ -26,7 +26,7 @@ public class calc {
         n2.setValor(scan.nextInt());
 
         System.out.printf("Operações");
-        System.out.printf("%n%n%n");
+        System.out.printf("%n%n%n%n%n");
         System.out.printf("1 para adição");
         System.out.printf("%n");
         System.out.printf("2 para subtração");
